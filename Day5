@@ -1,0 +1,70 @@
+Prefix Suffix Technique 
+
+
+Q1 : Given an array arr, construct its prefix sum array.
+Input:
+arr = [2, 4, 6, 8]
+
+Output:
+prefix = [2, 6, 12, 20]
+
+
+Q2 : Given an array arr and multiple queries (l, r), return the sum of elements from index l to r (inclusive).
+
+arr = [2, 4, 6, 8, 10]
+
+Query:
+l = 1, r = 3
+
+Output:
+18   
+
+
+Q3 : Find index i such that left sum is eaual to right sum of index 
+
+The element at index i is not included in either sum
+
+Return the first such index
+
+If none exists, return -1
+
+Input:
+arr = [1, 7, 3, 6, 5, 6]
+
+Output:
+3
+
+Q4 : Given an array arr, return an array ans such that:
+
+  Constraints:
+     ❌ No division
+     O(n) time
+     O(1) extra space (excluding output)
+
+   Input:  [0, 0, 3]
+   Output: [0, 0, 0]
+
+   Input:  [1,2,3,4]
+   Output: [24,12,8,6]
+
+   Input:  [-1, 2, -3, 4]
+   Output: [-24, 12, -8, 6]
+
+Q5 : Given an integer array arr, find the maximum sum of any contiguous subarray.
+   Input:  [-2,1,-3,4,-1,2,1,-5,4]
+  Output: 6
+  
+Explanation: [4, -1, 2, 1]
+
+Q6: Minimum Subarrat sum 
+
+  Input: arr[] = {3, -4, 2, -3, -1, 7, -5}
+  Output: -6
+
+Q7 : Maximum Circular Subarray sum
+
+
+
+
+
+
