@@ -56,7 +56,7 @@ Q5 : Given an integer array arr, find the maximum sum of any contiguous subarray
   
 Explanation: [4, -1, 2, 1]
 
-Q6: Minimum Subarrat sum 
+Q6: Minimum Subarray sum 
 
   Input: arr[] = {3, -4, 2, -3, -1, 7, -5}
   Output: -6
